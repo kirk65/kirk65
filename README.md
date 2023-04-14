@@ -26,7 +26,8 @@
 ### ✔ GitHub Stats
 
 ![kirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirk65&show_icons=true&theme=gruvbox)
-
+![](https://github-profile-trophy.vercel.app/?username=kirk65&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kirk65&theme=gruvbox&border_radius=4.5) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirk65&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 #
