@@ -26,7 +26,6 @@
 ### ✔ GitHub Stats
 
 ![kirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirk65&show_icons=true&theme=gruvbox)
-<p align="left">
 ![](https://github-profile-trophy.vercel.app/?username=kirk65&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 #
